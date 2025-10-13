@@ -28,9 +28,17 @@
 ---
 
 ## 📊 GitHub Stats:
-![Riyaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=riyazkhan069&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riyazkhan069&layout=compact&theme=tokyonight)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=riyazkhan069&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=riyazkhan069&show_icons=true&theme=tokyonight" alt="Riyaz's GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=riyazkhan069&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riyazkhan069&layout=compact&theme=tokyonight" alt="Top Langs" />
+</p>
 
 
 
