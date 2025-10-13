@@ -26,7 +26,8 @@
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 
 ---
-📊 GitHub Stats:
+
+## 📊 GitHub Stats:
 ![Riyaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=riyazkhan069&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riyazkhan069&layout=compact&theme=tokyonight)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=riyazkhan069&theme=tokyonight)
